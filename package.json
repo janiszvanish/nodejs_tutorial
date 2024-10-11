@@ -1,0 +1,32 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial by Maximilian Schwarzmuller",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janiszvanish/nodejs_tutorial.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "html",
+    "css",
+    "tutorial"
+  ],
+  "author": "Klaudia Janiszewska",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/janiszvanish/nodejs_tutorial/issues"
+  },
+  "homepage": "https://github.com/janiszvanish/nodejs_tutorial#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
